@@ -1,0 +1,3 @@
+name: FallingBlockFix
+version: '${project.version}'
+main: f3f5.fallingblockfix.FallingBlockFix
